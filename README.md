@@ -57,6 +57,13 @@ Secure Login (Safe)
 
 1. Test valid login (insecure)
 
+![addedtocart](./images/insecure)
+
 2. Test SQL Injection attack
 
+![addedtocart](./images/checklist.png)
+
+
 3. Test the secure version (attack fails)
+
+![addedtocart](./images/secure)
