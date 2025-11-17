@@ -61,7 +61,7 @@ Secure Login (Safe)
 
 2. Test SQL Injection attack
 
-![injection](./images/checklist.png)
+![injection](./images/injection.png)
 
 
 3. Test the secure version (attack fails)
