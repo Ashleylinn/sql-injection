@@ -1,0 +1,25 @@
+{
+  "name": "sql-injection",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashleylinn/sql-injection.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashleylinn/sql-injection/issues"
+  },
+  "homepage": "https://github.com/Ashleylinn/sql-injection#readme",
+  "description": "",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "express": "^5.1.0",
+    "pg": "^8.16.3"
+  }
+}
