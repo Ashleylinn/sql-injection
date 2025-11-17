@@ -57,7 +57,7 @@ Secure Login (Safe)
 
 1. Test valid login (insecure)
 
-![insecure](./images/insecure)
+![insecure](./images/insecure.png)
 
 2. Test SQL Injection attack
 
@@ -66,4 +66,4 @@ Secure Login (Safe)
 
 3. Test the secure version (attack fails)
 
-![secure](./images/secure)
+![secure](./images/secure.png)
