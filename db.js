@@ -5,7 +5,7 @@ const client = new Client({
   user: "postgres",         
   host: "localhost",
   database: "sql_injection_demo",
-  password: "A231250211", 
+  password: "my_password", 
   port: 5432
 });
 
