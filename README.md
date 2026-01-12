@@ -9,7 +9,7 @@ This project contains two login endpoints:
 - /login-secure — protected using parameterized queries
 
 The goal is to show, in the simplest possible example, how attackers bypass authentication and how developers can prevent it.
-
+ 
 ## Why important?
 
 SQL Injection is one of the most common and serious vulnerabilities in web applications.
